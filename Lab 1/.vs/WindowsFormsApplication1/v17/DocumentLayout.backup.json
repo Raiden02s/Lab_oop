@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Lab 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|c:\\users\\admin\\desktop\\windowsformsapplication1\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|C:\\Users\\Admin\\Desktop\\Lab 1\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|c:\\users\\admin\\desktop\\lab 1\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC525047-BF97-48BF-BCC3-55FDEF1D4DCA}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lab 1\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lab 1\\WindowsFormsApplication1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T14:59:09.188Z",
@@ -34,11 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Lab 1\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Lab 1\\WindowsFormsApplication1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
               "ViewState": "AgIAALMAAAAAAAAAAAAiwNUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
