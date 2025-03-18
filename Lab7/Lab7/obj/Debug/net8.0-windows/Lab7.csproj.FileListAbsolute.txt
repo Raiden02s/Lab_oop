@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\123\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.exe
+C:\Users\Admin\Desktop\123\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.deps.json
+C:\Users\Admin\Desktop\123\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.runtimeconfig.json
+C:\Users\Admin\Desktop\123\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.dll
+C:\Users\Admin\Desktop\123\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.pdb
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.dll
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\refint\Lab7.dll
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.pdb
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.genruntimeconfig.cache
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\ref\Lab7.dll
+C:\Users\Admin\Desktop\123\Lab7\Lab7\obj\Debug\net8.0-windows\TextEditorApp.Form1.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.deps.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.runtimeconfig.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\bin\Debug\net8.0-windows\Lab7.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\TextEditorApp.Form1.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.GenerateResource.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfoInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfo.cs
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.sourcelink.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\refint\Lab7.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\Lab7.genruntimeconfig.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab7\Lab7\obj\Debug\net8.0-windows\ref\Lab7.dll
