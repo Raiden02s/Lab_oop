@@ -12,3 +12,18 @@ C:\Users\Admin\Desktop\123\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
 C:\Users\Admin\Desktop\123\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
 C:\Users\Admin\Desktop\123\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
 C:\Users\Admin\Desktop\123\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll

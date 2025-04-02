@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\123\\Lab3\\Lab3\\Lab3.csproj": {}
+    "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab3\\Lab3\\Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\123\\Lab3\\Lab3\\Lab3.csproj": {
+    "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab3\\Lab3\\Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\123\\Lab3\\Lab3\\Lab3.csproj",
+        "projectUniqueName": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab3\\Lab3\\Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\123\\Lab3\\Lab3\\Lab3.csproj",
+        "projectPath": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab3\\Lab3\\Lab3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\123\\Lab3\\Lab3\\obj\\",
+        "outputPath": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab3\\Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VISUAL STUIDO DRIST\\shared\\NuGetPackages"

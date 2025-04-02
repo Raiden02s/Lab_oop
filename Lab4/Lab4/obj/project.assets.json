@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\123\\Lab4\\Lab4\\Lab4.csproj",
+      "projectUniqueName": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab4\\Lab4\\Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\123\\Lab4\\Lab4\\Lab4.csproj",
+      "projectPath": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab4\\Lab4\\Lab4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\123\\Lab4\\Lab4\\obj\\",
+      "outputPath": "F:\\SHARAGA\\ООP\\github oop\\Lab_oop\\Lab4\\Lab4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VISUAL STUIDO DRIST\\shared\\NuGetPackages"

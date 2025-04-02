@@ -1,36 +1,68 @@
 ﻿using System;
 
-struct Complex
+public struct ComplexNumber
 {
-    public double Real { get; }
-    public double Imaginary { get; }
+    public double Real;  // Дійсна частина
+    public double Imaginary;  // Уявна частина
 
-    public Complex(double real, double imaginary)
+    // Конструктор для ініціалізації комплексного числа
+    public ComplexNumber(double real, double imaginary)
     {
         Real = real;
         Imaginary = imaginary;
     }
 
-    public static Complex Divide(Complex a, Complex b)
+    // Перевизначення ToString для зручного виведення комплексного числа
+    public override string ToString()
     {
-        double denominator = b.Real * b.Real + b.Imaginary * b.Imaginary;
-        if (denominator == 0) throw new DivideByZeroException("Ділення на нуль");
-
-        double realPart = (a.Real * b.Real + a.Imaginary * b.Imaginary) / denominator;
-        double imaginaryPart = (a.Imaginary * b.Real - a.Real * b.Imaginary) / denominator;
-        return new Complex(realPart, imaginaryPart);
+        return $"{Real} + {Imaginary}i";
     }
-
-    public override string ToString() => $"{Real} + {Imaginary}i";
 }
 
 class Program
 {
     static void Main()
     {
-        Complex A = new Complex(4, 3);
-        Complex B = new Complex(2, -1);
-        Complex result = Complex.Divide(A, B);
-        Console.WriteLine($"Результат ділення: {result}");
+        // Введення користувачем двох комплексних чисел
+        Console.WriteLine("Enter the first complex number (A):");
+        Console.Write("Real part: ");
+        double realA = double.Parse(Console.ReadLine());
+        Console.Write("Imaginary part: ");
+        double imaginaryA = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("\nEnter the second complex number (B):");
+        Console.Write("Real part: ");
+        double realB = double.Parse(Console.ReadLine());
+        Console.Write("Imaginary part: ");
+        double imaginaryB = double.Parse(Console.ReadLine());
+
+        // Створення комплексних чисел
+        ComplexNumber A = new ComplexNumber(realA, imaginaryA);
+        ComplexNumber B = new ComplexNumber(realB, imaginaryB);
+
+        // Ділення комплексних чисел
+        ComplexNumber result = DivideComplexNumbers(A, B);
+
+        // Виведення результату
+        Console.WriteLine($"\nResult of A / B: {result}");
+    }
+
+    // Функція для ділення комплексних чисел
+    static ComplexNumber DivideComplexNumbers(ComplexNumber A, ComplexNumber B)
+    {
+        // Перевірка на нульовий знаменник (B = 0)
+        if (B.Real == 0 && B.Imaginary == 0)
+        {
+            throw new DivideByZeroException("Cannot divide by zero (complex number B is zero).");
+        }
+
+        // Використовуємо формулу для ділення комплексних чисел:
+        // (A / B) = (A * conjugate(B)) / (B * conjugate(B))
+        // Де conjugate(B) - комплексне спряження числа B
+        double denominator = B.Real * B.Real + B.Imaginary * B.Imaginary;  // |B|^2
+        double realPart = (A.Real * B.Real + A.Imaginary * B.Imaginary) / denominator;
+        double imaginaryPart = (A.Imaginary * B.Real - A.Real * B.Imaginary) / denominator;
+
+        return new ComplexNumber(realPart, imaginaryPart);
     }
 }
