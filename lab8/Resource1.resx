@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- Обов’язкові теги resheader -->
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="-Version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+
+  <!-- Ваші ресурси -->
+  <data name="FileMenu" xml:space="preserve">
+    <value>File</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="FileMenu" xml:space="preserve" culture="uk-UA">
+    <value>Файл</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="NewMenu" xml:space="preserve">
+    <value>New</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="NewMenu" xml:space="preserve" culture="uk-UA">
+    <value>Новий</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="OpenMenu" xml:space="preserve">
+    <value>Open</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="OpenMenu" xml:space="preserve" culture="uk-UA">
+    <value>Відкрити</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="SaveMenu" xml:space="preserve">
+    <value>Save</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="SaveMenu" xml:space="preserve" culture="uk-UA">
+    <value>Зберегти</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="ExitMenu" xml:space="preserve">
+    <value>Exit</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="ExitMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вихід</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="EditMenu" xml:space="preserve">
+    <value>Edit</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="EditMenu" xml:space="preserve" culture="uk-UA">
+    <value>Редагувати</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="CopyMenu" xml:space="preserve">
+    <value>Copy</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="CopyMenu" xml:space="preserve" culture="uk-UA">
+    <value>Копіювати</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="PasteMenu" xml:space="preserve">
+    <value>Paste</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="PasteMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вставити</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="CutMenu" xml:space="preserve">
+    <value>Cut</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="CutMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вирізати</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="UndoMenu" xml:space="preserve">
+    <value>Undo</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="UndoMenu" xml:space="preserve" culture="uk-UA">
+    <value>Скасувати</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="RedoMenu" xml:space="preserve">
+    <value>Redo</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="RedoMenu" xml:space="preserve" culture="uk-UA">
+    <value>Повторити</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="FormatMenu" xml:space="preserve">
+    <value>Format</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="FormatMenu" xml:space="preserve" culture="uk-UA">
+    <value>Формат</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="AlignLeftMenu" xml:space="preserve">
+    <value>Align Left</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="AlignLeftMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вирівняти ліворуч</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="AlignCenterMenu" xml:space="preserve">
+    <value>Align Center</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="AlignCenterMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вирівняти по центру</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="AlignRightMenu" xml:space="preserve">
+    <value>Align Right</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="AlignRightMenu" xml:space="preserve" culture="uk-UA">
+    <value>Вирівняти праворуч</value>
+    <comment>uk-UA</comment>
+  </data>
+  <data name="FormTitle" xml:space="preserve">
+    <value>Text Editor</value>
+    <comment>en-US</comment>
+  </data>
+  <data name="FormTitle" xml:space="preserve" culture="uk-UA">
+    <value>Текстовий редактор</value>
+    <comment>uk-UA</comment>
+  </data>
+</root>
