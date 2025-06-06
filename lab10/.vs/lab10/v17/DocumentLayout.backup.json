@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|f:\\sharaga\\\u043E\u043Ep\\github oop\\lab_oop\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57AACB10-E710-4667-AC9B-8C7B2DCC988F}|lab10.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:34:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:32:24.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab10\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lb\\lab10\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:28:53.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
