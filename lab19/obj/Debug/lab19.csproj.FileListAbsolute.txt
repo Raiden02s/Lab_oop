@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.Properties.Resources.resources
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lb\lab19\bin\Debug\lab19.exe.config
+C:\Users\Admin\Desktop\lb\lab19\bin\Debug\lab19.exe
+C:\Users\Admin\Desktop\lb\lab19\bin\Debug\lab19.pdb
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.exe
+C:\Users\Admin\Desktop\lb\lab19\obj\Debug\lab19.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\bin\Debug\lab19.exe.config
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\bin\Debug\lab19.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\bin\Debug\lab19.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.csproj.AssemblyReference.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.Properties.Resources.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.csproj.GenerateResource.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab19\obj\Debug\lab19.pdb
