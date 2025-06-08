@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\lb\lab18\bin\Debug\lab18.exe.config
+C:\Users\Admin\Desktop\lb\lab18\bin\Debug\lab18.exe
+C:\Users\Admin\Desktop\lb\lab18\bin\Debug\lab18.pdb
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.Properties.Resources.resources
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.exe
+C:\Users\Admin\Desktop\lb\lab18\obj\Debug\lab18.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\bin\Debug\lab18.exe.config
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\bin\Debug\lab18.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\bin\Debug\lab18.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.csproj.AssemblyReference.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.Properties.Resources.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.csproj.GenerateResource.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab18\obj\Debug\lab18.pdb
