@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\lb\lab13\bin\Debug\lab13.exe.config
+C:\Users\Admin\Desktop\lb\lab13\bin\Debug\lab13.exe
+C:\Users\Admin\Desktop\lb\lab13\bin\Debug\lab13.pdb
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.exe
+C:\Users\Admin\Desktop\lb\lab13\obj\Debug\lab13.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\bin\Debug\lab13.exe.config
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\bin\Debug\lab13.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\bin\Debug\lab13.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.csproj.AssemblyReference.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.Properties.Resources.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.csproj.GenerateResource.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab13\obj\Debug\lab13.pdb
