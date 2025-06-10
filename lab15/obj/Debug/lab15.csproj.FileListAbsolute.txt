@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab15\bin\Debug\lab15.exe.config
+C:\Users\Admin\Desktop\lb\yadaun\lab15\bin\Debug\lab15.exe
+C:\Users\Admin\Desktop\lb\yadaun\lab15\bin\Debug\lab15.pdb
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.exe
+C:\Users\Admin\Desktop\lb\yadaun\lab15\obj\Debug\lab15.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\bin\Debug\lab15.exe.config
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\bin\Debug\lab15.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\bin\Debug\lab15.pdb
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.Properties.Resources.resources
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.exe
+F:\SHARAGA\ООP\github oop\Lab_oop\lab15\obj\Debug\lab15.pdb
