@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "lab17.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ChatClient\\ChatClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

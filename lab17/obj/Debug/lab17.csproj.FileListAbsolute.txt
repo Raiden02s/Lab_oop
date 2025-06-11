@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\lb\yadaun\lab17\bin\Debug\lab17.exe.config
+C:\Users\Admin\Desktop\lb\yadaun\lab17\bin\Debug\lab17.exe
+C:\Users\Admin\Desktop\lb\yadaun\lab17\bin\Debug\lab17.pdb
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.Properties.Resources.resources
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.exe
+C:\Users\Admin\Desktop\lb\yadaun\lab17\obj\Debug\lab17.pdb

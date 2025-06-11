@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|f:\\sharaga\\\u043E\u043Ep\\github oop\\lab_oop\\lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\serverobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:serverobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6181F2A-9FE4-47AF-B323-622412B5C083}|lab17.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\lb\\yadaun\\ChatClient\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\admin\\desktop\\lb\\yadaun\\chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:47:40.227Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\lb\\yadaun\\ChatClient\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lb\\yadaun\\ChatClient\\Form1.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:56:05.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\lb\\yadaun\\ChatClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\lb\\yadaun\\ChatClient\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:54:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerObject.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\ServerObject.cs",
+              "RelativeDocumentMoniker": "ServerObject.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\ServerObject.cs",
+              "RelativeToolTip": "ServerObject.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:50:37.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientObject.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\ClientObject.cs",
+              "RelativeDocumentMoniker": "ClientObject.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\ClientObject.cs",
+              "RelativeToolTip": "ClientObject.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:50:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:47:42.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:47:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\SHARAGA\\\u041E\u041EP\\github oop\\Lab_oop\\lab17\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:45:01.717Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
